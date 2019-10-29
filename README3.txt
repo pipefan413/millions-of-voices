@@ -7,8 +7,8 @@
 -----   RELEASE INFORMATION   --------------------------------------------------
 --------------------------------------------------------------------------------
 
-This file catalogues key information about the various tracks included in this
-release. Sources are included where known.
+This file catalogues key information about the various audio tracks included in
+this release. Sources are included where known.
 
 It is possible that I might discover new information that will render this file
 outdated, so I will upload any changes to an online version here:
