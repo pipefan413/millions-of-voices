@@ -61,10 +61,11 @@ Another notable inclusion is the first 4K83 version of hairy_hen's 5.1 surround
 mix, in which he included an additional John Williams music cue composed for
 the Obi-Wan scene on Dagobah but which went unused in all official releases of
 the film for some reason. This "Message From A Jedi" mix (as I've decided to
-call it) was muxed into earlier 4K83 releases prior to v1.3 by default. For this
-new Millions Of Voices release, both this and hairy_hen's later, more
-"authentic" version are included as lossless DTS-HD Master Audio tracks at a
-BD/DVD-compatible sample rate of 48kHz.
+call it) was muxed into earlier 4K83 releases prior to v1.3 by default, and was
+included in v1.3 but only as lossy AC3 as opposed to its original lossless
+24-bit DTS-HD Master Audio presentation. For this new Millions Of Voices
+release, both this and hairy_hen's later, more "authentic" version are included
+as lossless DTS-HD Master Audio tracks at a BD/DVD-compatible 48kHz sample rate.
 
 As a wee bonus, I've also stripped the audio track out of the BBFC card so it
 matches the silent one for 4K77 (it was noise anyway rather than actual audio
@@ -213,9 +214,10 @@ otherwise slightly odd silence behind the dialogue) so this has become my own
 favourite mix as a result! However, those who would prefer a more "authentic"
 experience can use the version that's been used in mainline 4K83 releases since
 v1.3 instead. Both appear here encoded in lossless DTS-HD Master Audio at 48kHz
-/ 24-bit (in 4K83 they were 16-bit DTS-HD MA at best and lossy AC3 at worst).
+and hairy_hen's personal "Message From A Jedi" mix is 24-bit (having been only
+16-bit in mainline 4K83 releases).
 
-FILE:	ROTJ_5.1_2018_HAIRYHEN_(1983-93).dts	[DTS-HD MA 48kHz / 24-bit]
+FILE:	ROTJ_5.1_2018_HAIRYHEN_(1983-93).dts	[DTS-HD MA 48kHz / 16-bit]
 	ROTJ_5.1_2018_MESSAGE_FROM_A_JEDI.dts	[DTS-HD MA 48kHz / 24-bit]
 
 SRC1:	Unspecified 1993/94 Definitive Collection LaserDisc with digital audio
@@ -247,7 +249,7 @@ that have been intentionally retained here, some of which are arguably
 undesirable. Purists may not love this one, but it's an impressive and unique
 piece of work that deserves a shot.
 
-FILE:	ROTJ_5.1_2018_HAL9000_(1983-97).dts
+FILE:	ROTJ_5.1_2018_HAL9000_(1983-97).dts	[DTS 48kHz / 24-bit]
 
 SRC1:	1997 cinema DTS CD (provided by CapableMetal)
 
