@@ -190,7 +190,7 @@ were some new alterations made in 1997 that have been intentionally retained
 here, some of which are arguably undesirable. Purists may not love this one, but
 it's an impressive and unique piece of work that deserves a shot.
 
-FILE:	TESB_5.1_2018_HAL9000_(1980-97).dts
+FILE:	TESB_5.1_2018_HAL9000_(1980-97).dts	[DTS 48kHz / 24-bit]
 
 SRC1:	1997 cinema DTS CD (provided by CapableMetal)
 
