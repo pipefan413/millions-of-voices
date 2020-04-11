@@ -111,8 +111,8 @@ with the LaserDisc master and see which you prefer.
 
 LASERDISC VERSION:
 
-FILE:	ROTJ_2.0_1980_LD.dts	[DTS-HD Master Audio 48kHz / 16-bit for DVD/BD]
-	ROTJ_2.0_1980_LD.flac	[lossless 44.1kHz / 16-bit for source accuracy]
+FILE:	ROTJ_2.0_1983_LD.dts	[DTS-HD Master Audio 48kHz / 16-bit for DVD/BD]
+	ROTJ_2.0_1983_LD.flac	[lossless 44.1kHz / 16-bit for source accuracy]
 
 SRC1:	1986 US LaserDisc 1478-80 (digital audio)
 
@@ -130,7 +130,7 @@ INFO:	https://originaltrilogy.com/topic/Star-Wars-Laser-Disc-Audio-Archive/id/
 
 35MM PRINT VERSION:
 
-FILE:	ROTJ_2.0_1980_35MM.dts	[DTS-HD Master Audio 48kHz / 16-bit]
+FILE:	ROTJ_2.0_1983_35MM.dts	[DTS-HD Master Audio 48kHz / 16-bit]
 
 SRC1:	Optical audio track from theatrical 35mm print used in the 4K83 project
 
@@ -151,7 +151,7 @@ most complete mix (as the 1977 mono mix for Star Wars was).
 The encode of this that appears in mainline 4K83 releases is lossy AC3, making
 this the first release to feature a lossless version instead!
 
-FILE:	ROTJ_1.0_1980_16MM.dts	[DTS-HD Master Audio 48kHz / 24-bit]
+FILE:	ROTJ_1.0_1983_16MM.dts	[DTS-HD Master Audio 48kHz / 24-bit]
 
 SRC1:	Optical audio track from theatrical 16mm print (provided by Jaxxon)
 
@@ -172,7 +172,7 @@ altered, however, and I'm not especially keen overall. Judge for yourself!
 
 Note: for both The Empire Strikes Back and Return Of The Jedi, there are no 1985
 mixes provided here because they appear to be functionally identical to those
-films' original 1980 and 1983 mixes respectively (unlike the 1985 home video mix
+films' original and 1983 mixes respectively (unlike the 1985 home video mix
 of Star Wars which was indeed a remix with notable differences).
 
 FILE:	ROTJ_2.0_1993_LD.ac3	[384kbps, 48kHz / 16-bit for DVD/BD]
