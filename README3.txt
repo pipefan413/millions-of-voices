@@ -333,7 +333,8 @@ you aren't actually seeing onscreen!
 
 As mentioned near the top of this document, remember that these being synced to
 "GOUT" means that they're all missing 2 frames at 47:43, although this is
-unlikely to be noticeable  tracks.
+unlikely to be noticeable since these are commentary tracks wherein people talk
+over the top of the film audio anyway.
 
 
 FILE:	ROTJ_COM02_2004DVD_GOUT.ac3
