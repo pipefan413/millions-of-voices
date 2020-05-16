@@ -206,16 +206,22 @@ INFO:	https://originaltrilogy.com/topic/1997-Special-Edition-Audio-Mixes-GOUT-
 -----   ISOLATED SCORE (2.0 STEREO)   ------------------------------------------
 --------------------------------------------------------------------------------
 
-A recreation of the score alone, reconstructed from CD by hairy_hen. Obviously
+A recreation of the score alone, reconstructed from CD by ABC. Obviously
 this contains no dialogue, sound effects or anything else, instead aiming solely
 to replicate all of the original theatrical music cues as accurately as
-possible.
+possible. NOTE: I initially erroneously credited this to hairy_hen because I
+completely forgot it was ABC who put it together (I probably misremembered this
+because hairy_hen did the more recent isolated score for Star Wars), hence the
+inaccurate filename. I will fix this in the next release, which is in progress.
 
 FILE:	TESB_SCORE_HAIRYHEN.ac3	[384kbps, 48kHz / 16-bit for DVD/BD]
 
 SRC1:	2004 Special Edition 2-disc CD soundtrack (Sony)
 
 CRED:	hairy_hen
+
+INFO:   https://originaltrilogy.com/topic/Harmys-THE-EMPIRE-STRIKES-BACK-Despeci
+        alized-Edition-HD-MKV-and-AVCHD-v20-NOW-AVAILABLE/id/12511
 
 
 --------------------------------------------------------------------------------
