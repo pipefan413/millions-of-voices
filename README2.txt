@@ -218,7 +218,7 @@ FILE:	TESB_SCORE_HAIRYHEN.ac3	[384kbps, 48kHz / 16-bit for DVD/BD]
 
 SRC1:	2004 Special Edition 2-disc CD soundtrack (Sony)
 
-CRED:	hairy_hen
+CRED:	ABC
 
 INFO:   https://originaltrilogy.com/topic/Harmys-THE-EMPIRE-STRIKES-BACK-Despeci
         alized-Edition-HD-MKV-and-AVCHD-v20-NOW-AVAILABLE/id/12511
