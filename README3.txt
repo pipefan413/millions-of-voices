@@ -268,7 +268,10 @@ INFO:	https://originaltrilogy.com/topic/1997-Special-Edition-Audio-Mixes-GOUT-
 A recreation of the score alone, reconstructed from CD by hairy_hen. Obviously
 this contains no dialogue, sound effects or anything else, instead aiming solely
 to replicate all of the original theatrical music cues as accurately as
-possible.
+possible. NOTE: I initially erroneously credited this to hairy_hen because I
+forgot it was someone else who put it together (I probably misremembered this
+because hairy_hen did the more recent isolated score for Star Wars), hence the
+inaccurate filename. I will fix this in the next release, which is in progress.
 
 As mentioned near the top of this document, remember that this is synced to
 "GOUT", which means it's missing 2 frames at 47:43, although this is especially
@@ -278,7 +281,7 @@ FILE:	ROTJ_SCORE_HAIRYHEN_GOUT.ac3	[384kbps, 48kHz / 16-bit for DVD/BD]
 
 SRC1:	2004 Special Edition 2-disc CD soundtrack (Sony)
 
-CRED:	hairy_hen
+CRED:	unknown (let me know if you know!)
 
 
 --------------------------------------------------------------------------------
